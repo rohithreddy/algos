@@ -1,2 +1,2 @@
 # algos
-Common Algorithm implementations in python
+Common Algorithm implementations (mostly in python for now)
